@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodRecipes</string>
+    <string name="test">Test</string>
+    <string name="menu_categories">Categories</string>
+    <string name="some_recipe_title">Some Recipe title</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
